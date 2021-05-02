@@ -1,0 +1,2 @@
+# mstdn-bot
+マストドンのBOTだよ
